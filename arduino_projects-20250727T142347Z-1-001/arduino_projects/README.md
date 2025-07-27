@@ -74,8 +74,3 @@ This project is a **biometric security system** that uses a fingerprint sensor t
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone this repo:
-```bash
-git clone https://github.com/Kritzr/fingerprint-lock-system.git
